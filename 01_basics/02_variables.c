@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+//variable name denotes the name of memory location
+
 /*
 Rules for naming variables
 -vars can't have whitespaces i.e int is good ->  can't be a variable
@@ -8,8 +10,14 @@ Rules for naming variables
 */
 
 void main(){
-    int a = 10;
-    char ch = 'b';
-    printf("%d \n", a);
-    printf("%c", ch);
+    // int a = 10;
+    // char ch = 'b';
+    // printf("%d \n", a);
+    // printf("%c", ch);
+
+    int i=10;
+    int j = i;
+    j = 20;
+    printf("i = %d", i);
+    printf("j = %d", j);
 }
