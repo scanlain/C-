@@ -1,0 +1,11 @@
+C was created by Denich Ritchie in 1972
+C is mostly used to create operating system like windows, linux, mac
+C was invented to create UNIX operating system
+C is faster than java, python, as it is known for its speed
+C is used to program driver programs
+C is used to create games where latency is important
+
+we install mingw to run c/c++ programs in our system
+
+gcc file_name.c -0 file_name (compiles the program and creates a executable program)
+./file_name (runs the program and gives the output)
