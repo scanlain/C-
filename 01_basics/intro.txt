@@ -9,3 +9,5 @@ we install mingw to run c/c++ programs in our system
 
 gcc file_name.c -0 file_name (compiles the program and creates a executable program)
 ./file_name (runs the program and gives the output)
+
+garbage value refers to an uninitialized or unpredictable value stored in a variable in C.
